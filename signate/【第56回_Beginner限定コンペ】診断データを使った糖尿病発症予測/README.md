@@ -98,6 +98,9 @@ final_preds.append(0 if rule_score > 2 else 1)
 - **순위**: **15위 / 171명 제출자 중** (상위 8.7%)
 - **1등과의 점수 차이**: 0.0052111
 
+![대회 결과 테이블](https://github.com/user-attachments/assets/0ee85f96-1ee1-4cea-92fa-b2e79e3652b1)  
+![리더보드 화면](https://github.com/user-attachments/assets/b9de0a20-17b4-48df-9376-9e5fde509225)
+
 ---
 
 감사합니다! 🙌
