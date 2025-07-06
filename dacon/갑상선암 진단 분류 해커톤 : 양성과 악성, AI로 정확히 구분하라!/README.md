@@ -115,6 +115,7 @@
 - **최종 순위**: 🧪 174위 / 973명 중 (상위 17.88%)
 
   <img width="1491" height="587" alt="Image" src="https://github.com/user-attachments/assets/2cb4afc5-0ccd-4bc4-bd10-fb27d63d2bf2" />
+  <img width="1485" height="578" alt="Image" src="https://github.com/user-attachments/assets/c17cf978-d95a-4677-994d-06a853e66399" />
 
 ---
 
