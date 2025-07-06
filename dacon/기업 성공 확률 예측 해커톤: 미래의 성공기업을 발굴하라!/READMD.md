@@ -47,7 +47,7 @@
 대회의 평가지표는 **Weighted MAE (가중 평균 절대 오차)** 입니다.
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/6e759434-886f-4867-911f-d988a14303c7)
+  <img width="627" height="411" alt="Image" src="https://github.com/user-attachments/assets/97da37f2-614c-4577-8870-2e5b575bcfb8" />
 </p>
 
 \[
