@@ -51,7 +51,7 @@
 이 대회의 평가지표는 **Binary F1 Score**입니다.
 
 <p align="center">
-  <img src="3b9d6669-3045-466d-9d77-15745a7c4b9c.png" alt="Binary F1 Score" width="400"/>
+  <img width="511" height="90" alt="Image" src="https://github.com/user-attachments/assets/454e868d-88be-4d6b-9774-b7c2a29dc54f" />
 </p>
 
 - **Public Score**: 전체 테스트 데이터 중 **사전 샘플링된 30%**로 산정  
