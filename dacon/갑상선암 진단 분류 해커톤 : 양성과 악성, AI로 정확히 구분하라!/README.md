@@ -112,7 +112,9 @@
 
 - **제출 횟수**: 142회  
 - **최종 점수**: `0.5093`  
-- **최종 순위**: 🧪 174위 / 973명 중 (상위 17.88%)  
+- **최종 순위**: 🧪 174위 / 973명 중 (상위 17.88%)
+
+  <img width="1491" height="587" alt="Image" src="https://github.com/user-attachments/assets/2cb4afc5-0ccd-4bc4-bd10-fb27d63d2bf2" />
 
 ---
 
